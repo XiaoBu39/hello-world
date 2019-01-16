@@ -12,7 +12,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("你好世界");
-            Console.WriteLine("Press Enter");
+            Console.WriteLine("Press Any Key");
+            Console.WriteLine("按任意键");
             Console.ReadKey(true);
         }
     }
